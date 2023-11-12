@@ -22,6 +22,17 @@ You need MacOS Big Sur 11.1 or greater.
 
 Feel free to send pull requests to update this guide.
 
+## With Whiskey
+
+- Download [Whiskey](https://getwhisky.app/)
+- Open Whiskey and finish setup.
+- Create a new bottle (called 'Steam' for example)
+- Download Steam.exe
+- In Whiskey, go to the bottle you created
+- Click on Run and select the Steam.exe you downloaded
+- After installation, click the Steam app in your bottle.
+- 🥳 Thats it!
+
 ## Without Crossover
 
 Someone on reddit wrote a guide on how to play aoe 2 de on mac os without needing crossover. https://www.reddit.com/r/aoe2/comments/150t2v1/aoe_2_de_fix_on_mac_using_wineskin_winery/
